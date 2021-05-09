@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://walnut.chainwon.com/"
+languageCode = "cn-zh"
+title = "轻惋胡桃"
 theme = "ananke"
